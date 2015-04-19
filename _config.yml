@@ -39,9 +39,9 @@ timezone:      null
 
 
 #Site config
-title: mtanlee
-description: cloud技术文章
-keywords: openstack ceph
+title: Mtanlee
+description: Cloud技术文章
+keywords: Openstack Ceph Python
 url: http://mtanlee.com
 feed: /atom.xml
 favicon: /images/shortcut.jpg
@@ -50,7 +50,7 @@ favicon: /images/shortcut.jpg
 nav:
   - text: 首页
     url: /index.html
-  - text: 分类目录 
+  - text: 分类目录
     url: /categories.html
   - text: 文章归档
     url: /archives.html
@@ -64,6 +64,7 @@ author:
     name: mtanlee
     email: mtanlee07@gmail.com
     imageLink: /images/header.jpg
+    imageLinkgif: /images/contact.gif
     simpleIntro:  成功留给有准备的
     detailIntro:
       <p>博客之前有些过，后来各种原因就没写了，现在重新写，这算是自己开始走入IT行业的第一步吧。</p>
@@ -94,7 +95,7 @@ customLinks:
       url: http://jekyllrb.com
     - text: Jekyll Theme
       url: https://github.com/jekyll/jekyll/wiki/Sites
-    message:  Availability    
+    message:  Availability
   - item:
     - text: Openstack
       url: http://www.openstack.org/
@@ -121,7 +122,7 @@ baiduTongji:
 #comment config
 disqus:
   config: false
-  id: 
+  id:
 
 duoshuo:
   config: true
@@ -130,4 +131,3 @@ duoshuo:
 #baidu share config
 baiduShare:
   config: true
-  
