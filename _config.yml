@@ -98,6 +98,10 @@ customLinks:
       url: https://github.com/jekyll/jekyll/wiki/Sites
     message:  Availability
   - item:
+    - text: badboy's
+      url: http://wanggf62.com/
+    message:  Friends
+  - item:
     - text: Openstack
       url: http://www.openstack.org/
     - text: Ceph
