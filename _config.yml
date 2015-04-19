@@ -39,8 +39,8 @@ timezone:      null
 
 
 #Site config
-title:mtanlee
-description:cloud技术文章
+title: mtanlee
+description: cloud技术文章
 keywords: openstack ceph
 url: http://mtanlee.com
 feed: /atom.xml
