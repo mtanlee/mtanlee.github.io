@@ -470,7 +470,7 @@ a         { color: #91736b; text-decoration: none; }
     color: rgba(255, 255, 255, 0.8);
 }
 .main .article .about-image {
-    width: 400px;
+    width: 200px;
     float: left;
     height: auto;
 }
