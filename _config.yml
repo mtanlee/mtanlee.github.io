@@ -89,24 +89,24 @@ follow:
 customLinks:
   - item:
     - text: 技术小黑屋
-      url: http://droidyue.com/
+      url: http://www.iplaypython.com/
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends    
+      url: https://github.com/jekyll/jekyll/wiki/Sites
+    message:  Availability    
   - item:
-    - text: Java Code Geeks
-      url: http://www.javacodegeeks.com/
-    - text: Web Developer
-      url: http://www.fromdev.com/
-    - text: BeginnersBook
-      url: http://beginnersbook.com/
-    - text: Mkyong
-      url: http://www.mkyong.com/
-    - text: Java By Nataraj
-      url: http://javabynataraj.blogspot.in/
-    message: About Java
+    - text: Openstack
+      url: http://www.openstack.org/
+    - text: Ceph
+      url: http://www.ceph.com/
+    - text: Gitbook
+      url: http://git-scm.com/doc
+    - text: Python
+      url: http://www.iplaypython.com/
+    - text: Red hat rdo
+      url: https://www.rdoproject.org/Main_Page
+    message: About Open source
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
