@@ -5,7 +5,7 @@ date: 2015-04-21  01:38:49
 category: "openstack"
 ---
 
-**本篇文章对于小白比较有用，能够快速的体验一下openstack。**
+本篇文章对于小白比较有用，能够快速的体验一下openstack。
 
 ###1.更新packages
 {% highlight java %}
