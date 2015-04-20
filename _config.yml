@@ -21,7 +21,7 @@ future:       true
 unpublished:  false
 
 # Conversion
-markdown:     atom
+markdown:     kramdown
 highlighter:  pygments
 lsi:          false
 excerpt_separator: "\n\n"
