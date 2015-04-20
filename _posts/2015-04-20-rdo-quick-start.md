@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rdo-quick-start
-date: 2015-04-20
+date: 2015-04-20 21:21:00.00
 category: "openstack"
 ---
 
