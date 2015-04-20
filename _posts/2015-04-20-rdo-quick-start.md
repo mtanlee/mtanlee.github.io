@@ -5,9 +5,9 @@ date: 2015-04-20 21:21:00.00
 category: "openstack"
 ---
 
-#本篇文章对于小白比较有用，能够快速的体验一下openstack。
 
-#ROD QUICK START
+本篇文章对于小白比较有用，能够快速的体验一下openstack。
+
 ###1.更新packages
 ```bash
 sudo yum update -y
