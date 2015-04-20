@@ -41,3 +41,4 @@ CONFIG_NETWORK_HOSTS=$ip_network     ;网络节点ip地址
 
 sudo packstack --answer-file /root/answers.txt
 {% endhighlight %}
+###参考文献：https://www.rdoproject.org/
