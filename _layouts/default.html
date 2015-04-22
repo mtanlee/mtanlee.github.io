@@ -101,7 +101,7 @@
                         <h4 class="title">Links</h4>
                         <ul class="list">
                             {% for i in site.customLinks %}
-                                {% if i.message == "Availability" %}
+                                {% if i.message == "Friends" %}
                                     {% for link in i.item %}
                                     <li><a href="{{ link.url }}" title="{{ link.text }}" target="_blank">{{ link.text }}</a></li>
                                     {% endfor %}
