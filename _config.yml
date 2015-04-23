@@ -104,7 +104,11 @@ customLinks:
       url: http://iceyao.blog.51cto.com/
     - text: EinstCrazy
       url: http://einst.blog.51cto.com/
-    message:  Friends
+    - text: 细胞在生
+      url:  http://www.cnblogs.com/wtfbk/
+    - text: kula41 Tech Space
+      url: http://kula41.com
+    message: Friends
   - item:
     - text: Openstack
       url: http://www.openstack.org/
