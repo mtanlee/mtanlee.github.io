@@ -1,5 +1,5 @@
-#mtanlee.github.io
+# mtanlee.github.io
 
 
-##[Blog](http://www.mtanlee.com/)
+## [Blog](http://www.mtanlee.com/)
 
